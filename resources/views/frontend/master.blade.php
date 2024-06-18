@@ -17,7 +17,8 @@
             <div class="right">
                 <ul>
                     <li><a href="#home">Home</a></li>
-                    <li><a href="{{route('login-us')}}">login</a></li>
+                    <li><a href="{{route('login')}}">login</a></li>
+                    <li><a href="{{route('register')}}">Register</a></li>
                     <li><a href="{{route('about-us')}}">About</a></li>
                     <li><a href="{{route('contact-us')}}">Contact</a></li>
                 </ul>
